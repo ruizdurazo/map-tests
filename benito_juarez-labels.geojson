@@ -40,7 +40,7 @@
 { "type": "Feature", "properties": { "colonia": "POSTAL", "id": 35 }, "geometry": { "type": "Point", "coordinates": [ -99.141995831516766, 19.390713679194612 ] } },
 { "type": "Feature", "properties": { "colonia": "MIGUEL ALEMAN", "id": 36 }, "geometry": { "type": "Point", "coordinates": [ -99.144563548624831, 19.389703258781694 ] } },
 { "type": "Feature", "properties": { "colonia": "JOSEFA ORTIZ DE DOMINGUEZ", "id": 37 }, "geometry": { "type": "Point", "coordinates": [ -99.140727243360288, 19.387582735637693 ] } },
-{ "type": "Feature", "properties": { "colonia": "NIï¿½OS HEROES DE CHAPULTEPEC", "id": 38 }, "geometry": { "type": "Point", "coordinates": [ -99.144112186873315, 19.386201510592546 ] } },
+{ "type": "Feature", "properties": { "colonia": "NIÑOS HEROES DE CHAPULTEPEC", "id": 38 }, "geometry": { "type": "Point", "coordinates": [ -99.144112186873315, 19.386201510592546 ] } },
 { "type": "Feature", "properties": { "colonia": "NATIVITAS", "id": 39 }, "geometry": { "type": "Point", "coordinates": [ -99.137245260489976, 19.381579182105817 ] } },
 { "type": "Feature", "properties": { "colonia": "MODERNA", "id": 40 }, "geometry": { "type": "Point", "coordinates": [ -99.134635676377712, 19.395277397948472 ] } },
 { "type": "Feature", "properties": { "colonia": "IZTACCIHUATL", "id": 41 }, "geometry": { "type": "Point", "coordinates": [ -99.135600491581187, 19.39009458625959 ] } },
