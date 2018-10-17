@@ -1,5 +1,6 @@
 {
 "type": "FeatureCollection",
+"name": "benito_juarez-labels",
 "features": [
 { "type": "Feature", "properties": { "colonia": "INDEPENDENCIA" }, "geometry": { "type": "Point", "coordinates": [ -99.148031082135745, 19.37970582661751 ] } },
 { "type": "Feature", "properties": { "colonia": "DEL LAGO" }, "geometry": { "type": "Point", "coordinates": [ -99.141120857350828, 19.378595328474933 ] } },
@@ -20,7 +21,7 @@
 { "type": "Feature", "properties": { "colonia": "MERCED GOMEZ" }, "geometry": { "type": "Point", "coordinates": [ -99.189886401050543, 19.36556992228304 ] } },
 { "type": "Feature", "properties": { "colonia": "CREDITO CONSTRUCTOR" }, "geometry": { "type": "Point", "coordinates": [ -99.180319612496177, 19.364950573614731 ] } },
 { "type": "Feature", "properties": { "colonia": "PIEDAD NARVARTE" }, "geometry": { "type": "Point", "coordinates": [ -99.15562877264901, 19.402747282745796 ] } },
-{ "type": "Feature", "properties": { "colonia": "ATENOR SALAS (ATENOR SALA)" }, "geometry": { "type": "Point", "coordinates": [ -99.147522497955549, 19.403055815656508 ] } },
+{ "type": "Feature", "properties": { "colonia": "ATENOR SALAS" }, "geometry": { "type": "Point", "coordinates": [ -99.147522497955549, 19.403055815656508 ] } },
 { "type": "Feature", "properties": { "colonia": "NARVARTE PONIENTE" }, "geometry": { "type": "Point", "coordinates": [ -99.157705650019381, 19.392116776575961 ] } },
 { "type": "Feature", "properties": { "colonia": "DEL VALLE CENTRO" }, "geometry": { "type": "Point", "coordinates": [ -99.167799136360742, 19.383656872457564 ] } },
 { "type": "Feature", "properties": { "colonia": "DEL VALLE NORTE" }, "geometry": { "type": "Point", "coordinates": [ -99.166144013716206, 19.395235206058032 ] } },
