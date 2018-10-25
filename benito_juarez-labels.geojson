@@ -1,4 +1,4 @@
-{
+﻿{
 "type": "FeatureCollection",
 "name": "benito_juarez-labels",
 "features": [
@@ -13,7 +13,7 @@
 { "type": "Feature", "properties": { "colonia": "EXTREMADURA INSURGENTES", "id": 8 }, "geometry": { "type": "Point", "coordinates": [ -99.179909304731737, 19.377013054915718 ] } },
 { "type": "Feature", "properties": { "colonia": "SAN PEDRO DE LOS PINOS", "id": 9 }, "geometry": { "type": "Point", "coordinates": [ -99.184872855839259, 19.390259202169922 ] } },
 { "type": "Feature", "properties": { "colonia": "NAPOLES", "id": 10 }, "geometry": { "type": "Point", "coordinates": [ -99.176530325812223, 19.393655555075892 ] } },
-{ "type": "Feature", "properties": { "colonia": "OCHO DE AGOSTO", "id": 11 }, "geometry": { "type": "Point", "coordinates": [ -99.187058008557258, 19.394074040036571 ] } },
+{ "type": "Feature", "properties": { "colonia": "8 DE AGOSTO", "id": 11 }, "geometry": { "type": "Point", "coordinates": [ -99.187058008557258, 19.394074040036571 ] } },
 { "type": "Feature", "properties": { "colonia": "AMPLIACION NAPOLES", "id": 12 }, "geometry": { "type": "Point", "coordinates": [ -99.177798548826928, 19.387188567650249 ] } },
 { "type": "Feature", "properties": { "colonia": "SAN JOSE INSURGENTES", "id": 13 }, "geometry": { "type": "Point", "coordinates": [ -99.185392195012525, 19.366465892136834 ] } },
 { "type": "Feature", "properties": { "colonia": "MIXCOAC", "id": 14 }, "geometry": { "type": "Point", "coordinates": [ -99.189985820610261, 19.37283002143144 ] } },
@@ -32,7 +32,7 @@
 { "type": "Feature", "properties": { "colonia": "PORTALES SUR", "id": 27 }, "geometry": { "type": "Point", "coordinates": [ -99.148918583820262, 19.361624158444918 ] } },
 { "type": "Feature", "properties": { "colonia": "DEL VALLE SUR", "id": 28 }, "geometry": { "type": "Point", "coordinates": [ -99.169817628673755, 19.371510662913632 ] } },
 { "type": "Feature", "properties": { "colonia": "PORTALES NORTE", "id": 29 }, "geometry": { "type": "Point", "coordinates": [ -99.149504848532374, 19.369152031220889 ] } },
-{ "type": "Feature", "properties": { "colonia": "STA CRUZ ATOYAC", "id": 30 }, "geometry": { "type": "Point", "coordinates": [ -99.160788168019906, 19.368146956630799 ] } },
+{ "type": "Feature", "properties": { "colonia": "SANTA CRUZ ATOYAC", "id": 30 }, "geometry": { "type": "Point", "coordinates": [ -99.160788168019906, 19.368146956630799 ] } },
 { "type": "Feature", "properties": { "colonia": "RESIDENCIAL EMPERADORES", "id": 31 }, "geometry": { "type": "Point", "coordinates": [ -99.157586872304236, 19.368364304092854 ] } },
 { "type": "Feature", "properties": { "colonia": "XOCO", "id": 32 }, "geometry": { "type": "Point", "coordinates": [ -99.166717524874102, 19.361834885041119 ] } },
 { "type": "Feature", "properties": { "colonia": "GENERAL ANAYA", "id": 33 }, "geometry": { "type": "Point", "coordinates": [ -99.158862657533319, 19.360486262417744 ] } },
